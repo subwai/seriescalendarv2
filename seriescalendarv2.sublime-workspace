@@ -1,0 +1,967 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contro",
+				"controllerFile"
+			],
+			[
+				"fetch",
+				"fetchEpisodes"
+			],
+			[
+				"fetc",
+				"fetchEpisodes"
+			],
+			[
+				"Epis",
+				"EpisodeNumber"
+			],
+			[
+				"Ep",
+				"EpisodeName"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"footer",
+				"footer_height"
+			],
+			[
+				"Airs",
+				"Airs_DayOfWeek  (variable)"
+			],
+			[
+				"api",
+				"apikey"
+			],
+			[
+				"adde",
+				"addedStr  (variable)"
+			],
+			[
+				"subsc",
+				"subscriberscore"
+			],
+			[
+				"contr",
+				"controllerFile"
+			],
+			[
+				"requre",
+				"require_once"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add .",
+				"Git: Add..."
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"renaem",
+				"File: Rename"
+			],
+			[
+				"diff all",
+				"Git: Diff All"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"delete",
+				"File: Delete"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+			"$PATH",
+			"echo $PATH;",
+			"echo \"test\";",
+			"echo \"test\","
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/inetpub/wwwroot/seriescalendarv2/.gitignore",
+		"/C/Users/Adam/AppData/Roaming/Rainmeter/Rainmeter.log",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Sidebar/Music/Music-Art.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Sticky Cover - Spotify Album Art/Sticky Cover.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Sticky Cover for Rainmeter - Spotify Album Art/Sticky Cover for Rainmeter - Spotify Album Art.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Sticky Cover - Spotify Album Art/CheckTrackChange.lua",
+		"/D/Users/Programmering/Chrome/Open Image Shortcut/manifest.json",
+		"/D/Users/Programmering/Chrome/Open Image Shortcut/images.js",
+		"/D/Users/Adam/Desktop/test.html",
+		"/D/Users/Programmering/C#/SpotifyPlugin/C#/PluginSpotify/PluginSpotify.cs",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Taskbar/System/Drive/Drive1/Drive1-Icon.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Taskbar/System/Drive/Drive.inc",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/TaskbarCommon.inc",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/Options.inc",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Options/Options.ini",
+		"/D/Users/Adam/Documents/LUND/VGnation_IP.txt",
+		"/D/Users/ /components/#1/Giulia/ErroticaArchive_2012-04-06_LINES-GIULIA-by-FLORA_b3dd1_med/model-bio_Giulia.txt",
+		"/D/Users/ /components/#1/Nikky/ErroticaArchive_2006-10-25_FLARES-NIKKY-by-ERRO_1716f_med/model-bio_Nikky.txt",
+		"/D/Users/ /components/#1/Evelyn/EB_2006-12-18_EQUESTRIAN-EVELYN-by-TIM-FOX_1a46b_med/model-bio_Evelyn.txt",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Sticky Cover - Spotify Album Art v2/Sticky Cover.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Sidebar/Music/CheckTrackChange.lua",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Sticky Cover for Rainmeter - Spotify Album Art/CheckTrackChange.lua",
+		"/D/Users/Adam/Desktop/Resharper 8.1.23.546+Key[GY]/Resharper 8.1.23.546+Key[GY]/LicenseKey.txt",
+		"/C/Users/Adam/AppData/Roaming/uTorrent/resume.dat",
+		"/C/Users/Adam/AppData/Roaming/uTorrent/settings.dat",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/SidebarCommon.inc",
+		"/D/Users/Programmering/C#/SpotifyPlugin/C#/PluginSpotify/SpotifyAPI.cs",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Sidebar/Volume/Volume.ini",
+		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/SidebarVolume.inc",
+		"/D/Users/Adam/Desktop/rainmeter-plugin-sdk-master/rainmeter-plugin-sdk-master/C#/PluginEmpty/PluginEmpty.cs",
+		"/D/Users/Adam/Desktop/small_spotify_with_albumart_by_jlundberg-d4o56il/Spotify_small/CheckTrackChange.lua",
+		"/D/Users/Adam/Desktop/small_spotify_with_albumart_by_jlundberg-d4o56il/Spotify_small/Spotify.ini",
+		"/D/Users/Adam/Desktop/Enigma/Sidebar/Music/Music-Art.ini",
+		"/C/Program Files/Rainmeter/Defaults/Layouts/illustro default/Rainmeter.ini",
+		"/C/Program Files/Rainmeter/Defaults/Skins/Read me before copying skins here.txt",
+		"/C/Program Files/Rainmeter/Rainmeter.exe.config",
+		"/D/Users/Adam/Desktop/Spotify.ini",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Home/CalendarDay.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Extra/MultiRequest/Defaults.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Javascript/underscore-min.js",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Sass/main.scss",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Home.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Helper/FrameworkHelper.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Extra/MultiRequest/Handler.php",
+		"/D/Users/ /components/Naruto/1.txt",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Service/SeriesUpdaterService.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Shared/Master.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Index.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Edit_calendar/Index.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Edit_calendar.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Home/Index.php",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/bootstrap.min.css",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/bootstrap.css",
+		"/D/Users/Adam/Desktop/bootstrap-3.0.3-dist/dist/css/bootstrap.min.css",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/bootstrap.css",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/bootstrap.min.css",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/main.css",
+		"/D/Users/Adam/Desktop/Minecraft Server/server.properties",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Core/Bootstrap.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/All.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Core/Router.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/Series.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/Episodes.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Service/EpisodeUpdaterService.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Shared/Interface/MainView.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/routes.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/EpisodeController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/routes.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/AllController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/SeriesController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Core/Controller.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/jquery.mCustomScrollbar.css",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Javascript/jquery.mCustomScrollbar.js",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/ApplicationController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Update/Controller/BothController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Javascript/jquery.mCustomScrollbar.min.js",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Javascript/test.js",
+		"/D/Users/Adam/Desktop/jquery.mCustomScrollbar.concat.min.js",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/main.css",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.563/cream_dust/cream_dust.png",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.563/cream_dust/cream_dust_@2X.png",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/inetpub/wwwroot/Seriescalendar/www/.git/COMMIT_EDITMSG",
+		"/D/inetpub/wwwroot/Seriescalendar/www/.gitignore",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Series.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/Series.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Edit.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/.git/MERGE_MSG",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Create.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Home/CalendarView.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Series/SeriesView.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/index.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/CalendarDay.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/CustomSeries.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/quartz.ini",
+		"/D/inetpub/wwwroot/Seriescalendar/www/quartz.ini.dist",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/CalendarView.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/SeriesView.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Manager/AppErrorManager.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Manager/AppInfoManager.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Bootstrap/Css.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Bootstrap/Php.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Result/ViewResult.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/HttpError/404.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Series/Series.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Home/Index.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/index.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Controller.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Result/JsonResult.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/config.rb",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/DatabaseManager.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Router.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Route.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/.htaccess",
+		"/D/inetpub/wwwroot/Seriescalendar/www/web.config",
+		"/D/inetpub/wwwroot/Seriescalendar/seriescalendar.ini",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/SeriesController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/ErrorManager.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/InfoManager.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Edit_calendarController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/HomeController.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/SeriesViewModel.php",
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/SeriesModel.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"",
+			" extends ThreeColumnView"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MeasureGetAlbum",
+			"src=\"",
+			"&gt;",
+			"&lt;�",
+			"ROOTCONFIGPATH",
+			"rootconf",
+			"MeasureGetArt2",
+			"Disney",
+			"FILM",
+			"this->firstHandler",
+			"background: url(/Assets/Background/broken_noise.png);",
+			"thumbnail",
+			"../fonts",
+			"fonts",
+			"glyph",
+			"font",
+			"fonts",
+			"thumbnail",
+			"height",
+			"max-",
+			"height",
+			"view",
+			"data->Series",
+			"->OnComplete",
+			"->call",
+			"episodeStr",
+			"serieStr",
+			"SeriesUpdaterService",
+			" IN ",
+			" IN",
+			"`",
+			"hidden",
+			"new [^\\\\]",
+			"new ([\\\\][\\.])",
+			"new ([!\\\\][.])",
+			"SeriesUpdaterService",
+			"page",
+			"$(\".page\").mCustomScrollbar(\"update\");\n      window.UpdateContainerHeight();",
+			"$mCSB_container.css(\"height\", Math.max($pageBody.height(), $content[0].scrollHeight));",
+			"content.height()",
+			"max-height",
+			"update",
+			"mCustomScrollBox",
+			"max-height",
+			"min",
+			"minHeight",
+			"mCustomScrollBox",
+			"mCustommScrollBox",
+			"mCustomScrollbar\"",
+			"mCustomScrollbar@",
+			"Height",
+			"min-height",
+			" class=\"pull-left\"",
+			"><a",
+			"li>",
+			"body",
+			"html",
+			"FacebookManager",
+			"\\\\Exception",
+			"Exception",
+			"FacebookManager",
+			"FETCH_CLASS",
+			"FacebookManager",
+			"PDO",
+			"FacebookManager",
+			"CalendarDay",
+			"MainView",
+			"\\\\\\\\MainView",
+			"\\\\MainView",
+			"MainView",
+			"\"./",
+			"./",
+			"Model\")",
+			"Model()",
+			"Model.",
+			"Model",
+			"Model.php",
+			"model",
+			"CustomSeriesModel",
+			"SeriesViewModel",
+			"<<<<<<< HEAD",
+			"./",
+			"<<<<<<< HEAD",
+			"row",
+			"release_week_day",
+			"release_time",
+			"description",
+			"Description",
+			"description",
+			"title",
+			"Title",
+			"title",
+			"description",
+			"Description",
+			"description",
+			"title",
+			"Title",
+			"title",
+			"Title",
+			"title",
+			"release_time",
+			"release_week_day",
+			"release_time",
+			"description",
+			"Description",
+			"description",
+			"title",
+			"Title",
+			"title",
+			"Title",
+			"title",
+			"echo ",
+			"debug",
+			"Debug",
+			"debug",
+			"Debug",
+			"debug",
+			"Debug",
+			"debug",
+			"Debug",
+			"apikey",
+			"facebook_calendar",
+			"errors",
+			"debug",
+			"display",
+			"EFF561E720AEBEF4F4DCDC6C099E8F6F1CFB1F04",
+			".zip",
+			"Gfi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"http://www.carlibanks.com/",
+			">",
+			"<",
+			"\\\\MainView",
+			"\\MainView",
+			"\"",
+			"\")",
+			"subscriptions",
+			"INSERT INTO series (id) VALUES (",
+			";",
+			"),",
+			"\\n(",
+			")",
+			",\\n",
+			"",
+			"->SeriesName",
+			"item.SeriesName",
+			"/Assets",
+			"Application/Assets",
+			"Application/Areas/ApplicationController",
+			"Application/Areas/Model/CalendarDay",
+			"Application/Areas/Model/Database/",
+			"Application/Areas/Model/View/",
+			"MainView",
+			"",
+			" extends ThreeColumnView",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "seriescalendarv2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"update",
+				"Application\\Service\\EpisodeUpdaterService.php"
+			],
+			[
+				"master",
+				"Application\\Shared\\Master.php"
+			],
+			[
+				"series",
+				"Application\\Service\\SeriesUpdaterService.php"
+			],
+			[
+				"seriesinde",
+				"Application\\Areas\\View\\Series\\Index.php"
+			],
+			[
+				"editinde",
+				"Application\\Areas\\View\\Edit_calendar\\Index.php"
+			],
+			[
+				"edit",
+				"Application\\Areas\\Controller\\Edit_calendar.php"
+			],
+			[
+				"homeinde",
+				"Application\\Areas\\View\\Home\\Index.php"
+			],
+			[
+				"main",
+				"Application\\Assets\\Sass\\main.scss"
+			],
+			[
+				"editindex",
+				"Application\\Areas\\View\\Edit_calendar\\Index.php"
+			],
+			[
+				"home",
+				"Application\\Areas\\Controller\\Home.php"
+			],
+			[
+				"seriesupda",
+				"Application\\Service\\SeriesUpdaterService.php"
+			],
+			[
+				"editcal",
+				"Application\\Areas\\Controller\\Edit_calendar.php"
+			],
+			[
+				"editcalinde",
+				"Application\\Areas\\View\\Edit_calendar\\Index.php"
+			],
+			[
+				"homeindex",
+				"Application\\Areas\\View\\Home\\Index.php"
+			],
+			[
+				"mcustom",
+				"Application\\Assets\\Css\\jquery.mCustomScrollbar.css"
+			],
+			[
+				"controller",
+				"Framework\\Core\\Controller.php"
+			],
+			[
+				"mainscs",
+				"Application\\Assets\\Sass\\main.scss"
+			],
+			[
+				"boot",
+				"Framework\\Core\\Bootstrap.php"
+			],
+			[
+				"corecontr",
+				"Framework\\Core\\Controller.php"
+			],
+			[
+				"seriesedit",
+				"Application\\Areas\\View\\Series\\Edit.php"
+			],
+			[
+				"seriesindex",
+				"Application\\Areas\\View\\Series\\Index.php"
+			],
+			[
+				"seriescreate",
+				"Application\\Areas\\View\\Series\\Create.php"
+			],
+			[
+				"contseries",
+				"Application\\Areas\\Controller\\Series.php"
+			],
+			[
+				"modelseries",
+				"Application\\Areas\\Model\\Database\\Series.php"
+			],
+			[
+				"calendar",
+				"Application\\Areas\\Model\\View\\Home\\CalendarView.php"
+			],
+			[
+				"calendarview",
+				"Application\\Areas\\Model\\View\\Home\\CalendarView.php"
+			],
+			[
+				"router",
+				"Framework\\Core\\Router.php"
+			],
+			[
+				"404",
+				"Application\\HttpError\\404.php"
+			],
+			[
+				"appl",
+				"Application\\Areas\\ApplicationController.php"
+			],
+			[
+				"controllseries",
+				"Application\\Areas\\Controller\\Series.php"
+			],
+			[
+				"cont",
+				"Framework\\Controller.php"
+			],
+			[
+				"model",
+				"Application\\Areas\\Model\\View\\CalendarViewModel.php"
+			],
+			[
+				"seriescont",
+				"Application\\Areas\\Controller\\SeriesController.php"
+			],
+			[
+				"homecont",
+				"Application\\Areas\\Controller\\HomeController.php"
+			],
+			[
+				"homein",
+				"Application\\Areas\\View\\Home\\Index.php"
+			],
+			[
+				"homecon",
+				"Application\\Areas\\Controller\\HomeController.php"
+			],
+			[
+				"ep",
+				"Application\\Service\\EpisodeUpdaterService.php"
+			],
+			[
+				"seriesu",
+				"Application\\Service\\SeriesUpdaterService.php"
+			],
+			[
+				"editcon",
+				"Application\\Areas\\Controller\\Edit_calendarController.php"
+			],
+			[
+				"seriesview",
+				"Application\\Areas\\Model\\View\\SeriesViewModel.php"
+			],
+			[
+				"seriesmodel",
+				"Application\\Areas\\Model\\Database\\SeriesModel.php"
+			],
+			[
+				"seriescontr",
+				"Application\\Areas\\Controller\\SeriesController.php"
+			],
+			[
+				"seriesmode",
+				"Application\\Areas\\Model\\Database\\SeriesModel.php"
+			],
+			[
+				"seriescon",
+				"Application\\Areas\\Update\\Controller\\SeriesController.php"
+			],
+			[
+				"faceboo",
+				"Application\\Manager\\FacebookManager.php"
+			],
+			[
+				"request",
+				"Application\\Extra\\MultiRequest\\Request.php"
+			],
+			[
+				"mulri",
+				"Application\\Extra\\MultiRequest\\Handler.php"
+			],
+			[
+				"callback",
+				"Application\\Extra\\MultiRequest\\Callbacks.php"
+			],
+			[
+				"handler",
+				"Application\\Extra\\MultiRequest\\Handler.php"
+			],
+			[
+				"editcale",
+				"Application\\Areas\\Controller\\Edit_calendarController.php"
+			],
+			[
+				"php",
+				"Framework\\Bootstrap\\Php.php"
+			],
+			[
+				"seriesupdate",
+				"Application\\Areas\\Series\\UpdateController.php"
+			],
+			[
+				"up",
+				"Application\\Areas\\Episodes\\UpdateController.php"
+			],
+			[
+				"paramet",
+				"Framework\\Parameter.php"
+			],
+			[
+				"contr",
+				"Framework\\Controller.php"
+			],
+			[
+				"routes",
+				"routes.php"
+			],
+			[
+				"ca",
+				"Application\\Model\\CalendarDay.php"
+			],
+			[
+				"datet",
+				"Application\\Extra\\ComparableDateInterval.php"
+			],
+			[
+				"cal",
+				"Application\\Model\\View\\CalendarViewModel.php"
+			],
+			[
+				"inter",
+				"Application\\Extra\\DateInterval.php"
+			],
+			[
+				"cale",
+				"Application\\Model\\View\\CalendarViewModel.php"
+			],
+			[
+				"two",
+				"D:\\inetpub\\wwwroot\\Seriescalendar\\www\\Application\\Shared\\Interface\\TwoColumnView.php"
+			],
+			[
+				"thre",
+				"Application\\Shared\\ThreeColumnMaster.php"
+			],
+			[
+				"index",
+				"Application\\View\\Edit_calendar\\Index.php"
+			],
+			[
+				"viewres",
+				"Framework\\Result\\ViewResult.php"
+			],
+			[
+				"viewinter",
+				"Framework\\Interface\\ViewInterface.php"
+			],
+			[
+				"threecolumview",
+				"Application\\Shared\\Interface\\ThreeColumnView.php"
+			],
+			[
+				"homeind",
+				"Application\\View\\Home\\Index.php"
+			],
+			[
+				"threeco",
+				"Application\\Shared\\ThreeColumnMaster.php"
+			],
+			[
+				"frame",
+				"Framework\\Helper\\FrameworkHelper.php"
+			],
+			[
+				"app",
+				"Application\\Controller\\ApplicationController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"dis",
+				"D:\\inetpub\\wwwroot\\dispatch\\dispatch.sublime-project"
+			],
+			[
+				"",
+				"D:\\inetpub\\wwwroot\\vgnation\\vgnation.sublime-project"
+			],
+			[
+				"disp",
+				"D:\\inetpub\\wwwroot\\dispatch\\dispatch.sublime-project"
+			],
+			[
+				"lar",
+				"D:\\inetpub\\wwwroot\\laraveltest\\laraveltest.sublime-project"
+			],
+			[
+				"vg",
+				"D:\\inetpub\\wwwroot\\vgnation\\vgnation.sublime-project"
+			],
+			[
+				"s",
+				"D:\\inetpub\\wwwroot\\Smolderforge\\smolderforge.sublime-project"
+			],
+			[
+				"vgna",
+				"D:\\inetpub\\wwwroot\\vgnation\\vgnation.sublime-project"
+			],
+			[
+				"devel",
+				"D:\\inetpub\\wwwroot\\Development\\development.sublime-project"
+			],
+			[
+				"vgn",
+				"D:\\inetpub\\wwwroot\\vgnation\\vgnation.sublime-project"
+			],
+			[
+				"smolde",
+				"D:\\inetpub\\wwwroot\\Smolderforge\\smolderforge.sublime-project"
+			],
+			[
+				"dev",
+				"D:\\inetpub\\wwwroot\\Development\\development.sublime-project"
+			],
+			[
+				"vgnat",
+				"D:\\inetpub\\wwwroot\\vgnation\\vgnation.sublime-project"
+			],
+			[
+				"smoi",
+				"D:\\inetpub\\wwwroot\\Smolderforge\\smolderforge.sublime-project"
+			],
+			[
+				"quar",
+				"D:\\inetpub\\wwwroot\\Quartz\\www\\quartz.sublime-project"
+			],
+			[
+				"qar",
+				"D:\\inetpub\\wwwroot\\Quartz\\www\\quartz.sublime-project"
+			],
+			[
+				"smo",
+				"D:\\inetpub\\wwwroot\\Smolderforge\\smolderforge.sublime-project"
+			],
+			[
+				"smol",
+				"D:\\inetpub\\wwwroot\\Smolderforge\\smolderforge.sublime-project"
+			],
+			[
+				"del",
+				"D:\\inetpub\\wwwroot\\Development\\development.sublime-project"
+			],
+			[
+				"deve",
+				"D:\\inetpub\\wwwroot\\Development\\development.sublime-project"
+			],
+			[
+				"series",
+				"D:\\inetpub\\wwwroot\\Seriescalendar\\www\\seriescalendar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
