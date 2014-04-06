@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sub",
+				"subscriptions"
+			],
+			[
 				"contro",
 				"controllerFile"
 			],
@@ -59,6 +63,86 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/controllers/calendar_controller.rb",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/calendar/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/welcome.js",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/welcome.css.scss",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1699,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -67,16 +151,40 @@
 		"selected_items":
 		[
 			[
-				"dele",
-				"File: Delete"
+				"ren",
+				"File: Rename"
 			],
 			[
 				"rename",
 				"File: Rename"
 			],
 			[
-				"rena",
-				"File: Rename"
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"rails ",
+				"SublimeREPL: Rails"
+			],
+			[
+				"repl ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"repl rails",
+				"SublimeREPL: Rails"
+			],
+			[
+				"push",
+				"Git: Push"
 			],
 			[
 				"comm",
@@ -87,6 +195,14 @@
 				"Git: Add..."
 			],
 			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
 				"commit",
 				"Git: Commit"
 			],
@@ -95,16 +211,8 @@
 				"Git: Add..."
 			],
 			[
-				"repl",
-				"SublimeREPL: Shell"
-			],
-			[
 				"renam",
 				"File: Rename"
-			],
-			[
-				"push",
-				"Git: Push"
 			],
 			[
 				"comit",
@@ -121,10 +229,6 @@
 			[
 				"git diff",
 				"Git: Diff All"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"pull",
@@ -155,15 +259,11 @@
 				"File: Delete"
 			],
 			[
-				"remove",
-				"Emmet: Remove Tag"
-			],
-			[
 				"delete",
 				"File: Delete"
 			]
 		],
-		"width": 522.0
+		"width": 386.0
 	},
 	"console":
 	{
@@ -187,6 +287,45 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Program Files/PostgreSQL/9.3/data/postgresql.conf",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/heroku-3.6.0/lib/heroku/command.rb",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/heroku-3.6.0/lib/heroku/client.rb",
+		"/C/DevKit/config.yml",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/views/welcome/index.html.erb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/controllers/welcome_controller.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/Gemfile",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/assets/javascripts/calendar.js",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/assets/javascripts/welcome.js",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/assets/javascripts/application.js",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/assets/stylesheets/styles.scss",
+		"/D/inetpub/wwwroot/seriescalendarv2/test/test_helper.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/views/shared/_header.html.erb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/views/shared/_footer.html.erb",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/inetpub/wwwroot/seriescalendarv2/.sass-cache/474337394d6713fa6281923cd49253760e0c8980/_labels.scssc",
+		"/D/inetpub/wwwroot/seriescalendarv2/LICENSE",
+		"/D/inetpub/wwwroot/seriescalendarv2/config.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/models/user.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/config/environments/development.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/config/routes.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/models/subscription.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/config/environments/production.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/app/models/show.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/db/migrate/20140406022302_add_tvdb_id_to_shows.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/config/application.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/config/environment.rb",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/D/inetpub/wwwroot/seriescalendarv2/db/migrate/20140406014311_create_shows.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/db/migrate/20140406020422_create_subscriptions.rb",
+		"/D/inetpub/wwwroot/seriescalendarv2/db/migrate/20140406011202_create_users.rb",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/cygwin/lib/ruby/gems/1.9.1/gems/pry-rails-0.3.2/lib/pry-rails.rb",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Rails/pry_repl.rb",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 		"/D/inetpub/wwwroot/seriescalendarv2/.gitignore",
 		"/C/Users/Adam/AppData/Roaming/Rainmeter/Rainmeter.log",
 		"/D/Users/Adam/Documents/Rainmeter/Skins/Enigma/Sidebar/Music/Music-Art.ini",
@@ -245,7 +384,6 @@
 		"/D/Users/Adam/Desktop/bootstrap-3.0.3-dist/dist/css/bootstrap.min.css",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/bootstrap.css",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/bootstrap.min.css",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/main.css",
 		"/D/Users/Adam/Desktop/Minecraft Server/server.properties",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Core/Bootstrap.php",
@@ -271,54 +409,16 @@
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Assets/Css/flat/main.css",
 		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.563/cream_dust/cream_dust.png",
 		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.563/cream_dust/cream_dust_@2X.png",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
 		"/D/inetpub/wwwroot/Seriescalendar/www/.git/COMMIT_EDITMSG",
 		"/D/inetpub/wwwroot/Seriescalendar/www/.gitignore",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Series.php",
 		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/Series.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Edit.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/.git/MERGE_MSG",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Create.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Home/CalendarView.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Series/SeriesView.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/index.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/CalendarDay.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/CustomSeries.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/quartz.ini",
-		"/D/inetpub/wwwroot/Seriescalendar/www/quartz.ini.dist",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/CalendarView.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/SeriesView.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Manager/AppErrorManager.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Manager/AppInfoManager.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Bootstrap/Css.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Bootstrap/Php.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Result/ViewResult.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/HttpError/404.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Series/Series.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/Home/Index.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/index.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Controller.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Result/JsonResult.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/config.rb",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/DatabaseManager.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Router.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Route.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/.htaccess",
-		"/D/inetpub/wwwroot/Seriescalendar/www/web.config",
-		"/D/inetpub/wwwroot/Seriescalendar/seriescalendar.ini",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/SeriesController.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/ErrorManager.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Framework/Manager/InfoManager.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/Edit_calendarController.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Controller/HomeController.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/View/SeriesViewModel.php",
-		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/Model/Database/SeriesModel.php"
+		"/D/inetpub/wwwroot/Seriescalendar/www/Application/Areas/View/Series/Edit.php"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -334,6 +434,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";",
+			"port",
+			"rest_cl",
+			";",
+			"\"",
+			":",
 			"MeasureGetAlbum",
 			"src=\"",
 			"&gt;",
@@ -455,13 +561,7 @@
 			"debug",
 			"Debug",
 			"apikey",
-			"facebook_calendar",
-			"errors",
-			"debug",
-			"display",
-			"EFF561E720AEBEF4F4DCDC6C099E8F6F1CFB1F04",
-			".zip",
-			"Gfi"
+			"facebook_calendar"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -506,8 +606,1261 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/calendar_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/calendar/edit.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								182
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/javascripts/welcome.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/shared/_header.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/assets/stylesheets/welcome.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/application.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -569,6 +1922,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"header",
+				"app\\views\\shared\\_header.html.erb"
+			],
+			[
+				"layout",
+				"app\\views\\layouts\\application.html.erb"
+			],
 			[
 				"update",
 				"Application\\Service\\EpisodeUpdaterService.php"
@@ -862,8 +2223,16 @@
 		"selected_items":
 		[
 			[
+				"ser",
+				"D:\\inetpub\\wwwroot\\Seriescalendar\\www\\seriescalendar.sublime-project"
+			],
+			[
 				"dis",
 				"D:\\inetpub\\wwwroot\\dispatch\\dispatch.sublime-project"
+			],
+			[
+				"series",
+				"D:\\inetpub\\wwwroot\\seriescalendarv2\\seriescalendarv2.sublime-project"
 			],
 			[
 				"",
@@ -936,10 +2305,6 @@
 			[
 				"deve",
 				"D:\\inetpub\\wwwroot\\Development\\development.sublime-project"
-			],
-			[
-				"series",
-				"D:\\inetpub\\wwwroot\\Seriescalendar\\www\\seriescalendar.sublime-project"
 			]
 		],
 		"width": 380.0
